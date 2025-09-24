@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Creando material educativo abierto con Quarto y ChatGPT",
+    "section": "",
+    "text": "Guillermo Barrios es investigador del Instituto de Energías Renovables de la UNAM. Ingeniero Mecánico por la Universidad de Colima, impulsa ciencia de datos, energía en edificaciones y educación abierta. Coordina proyectos como ClimaLab y EnerHabitat, orientados a sostenibilidad, datos abiertos y equidad. Autor del programa especializado en Coursera Python: de cero a analista, impulsa la narrativa computacional y la ciencia de datos reproducible con herramientas libres. Diseña currículos y mentorías para formar talento en LIER-UNAM, y colabora con gobiernos y academia en políticas basadas en evidencia. Le apasionan Python, la visualización clara y el café, siempre con ética y rigor."
+  },
+  {
+    "objectID": "index.html#semblanza",
+    "href": "index.html#semblanza",
+    "title": "Creando material educativo abierto con Quarto y ChatGPT",
+    "section": "",
+    "text": "Guillermo Barrios es investigador del Instituto de Energías Renovables de la UNAM. Ingeniero Mecánico por la Universidad de Colima, impulsa ciencia de datos, energía en edificaciones y educación abierta. Coordina proyectos como ClimaLab y EnerHabitat, orientados a sostenibilidad, datos abiertos y equidad. Autor del programa especializado en Coursera Python: de cero a analista, impulsa la narrativa computacional y la ciencia de datos reproducible con herramientas libres. Diseña currículos y mentorías para formar talento en LIER-UNAM, y colabora con gobiernos y academia en políticas basadas en evidencia. Le apasionan Python, la visualización clara y el café, siempre con ética y rigor."
+  },
+  {
+    "objectID": "index.html#objetivo",
+    "href": "index.html#objetivo",
+    "title": "Creando material educativo abierto con Quarto y ChatGPT",
+    "section": "Objetivo",
+    "text": "Objetivo\nCapacitar a las y los participantes para diseñar, producir y publicar material educativo abierto utilizando Quarto y ChatGPT: desde la creación de notas en Markdown y libretas de Jupyter, hasta la integración de bibliografías desde archivos BibTeX y su despliegue en GitHub Pages, promoviendo prácticas reproducibles, metadatos claros y licenciamiento abierto; apoyándonos en ChatGPT y Codex para explorar o resolver temas menos familiares y acelerar el desarrollo."
+  },
+  {
+    "objectID": "index.html#contenidos-temáticos",
+    "href": "index.html#contenidos-temáticos",
+    "title": "Creando material educativo abierto con Quarto y ChatGPT",
+    "section": "Contenidos temáticos",
+    "text": "Contenidos temáticos\n\nPanorama Quarto + flujo de trabajo\n\nQué es Quarto y cómo se integra con ChatGPT y GitHub Pages\n\nArquitectura básica: \"_quarto.yml\", colecciones (docs/posts)\n\n\n\nAutoría en Markdown (.qmd)\n\nEstructura YAML, encabezados, bloques de código\n\nBuenas prácticas de estilo y legibilidad\n\n\n\nIntegración de Jupyter Notebooks\n\nImportar/ejecutar archivos .ipynb\n\n\n\nChatGPT o Codex como coautor\n\nConfigurar “modo código”/Codex-like en VS Code\n\nEstrategias de prompts y atribución responsable\n\n\n\nCitas y bibliografía (BibTeX)\n\nbibliography: references.bib, estilos CSL\n\nCitas en texto y generación automática de la lista\n\n\n\nEstilo y maquetación ligera\n\nTemas base, CSS mínimo, navegación y portada\n\n\n\nPublicación\n\nRepositorio en GitHub y despliegue en gh-pages\n\n\n\nApertura, licencias y metadatos\n\nCC BY para contenido, MIT para código\n\n\n\nVersionamiento y control de cambios\n\nGit básico, mensajes de commit y estructura de carpetas\n\n\n\nFlujo de actualización\n\nEstrategias para iterar y mantener el sitio"
+  },
+  {
+    "objectID": "index.html#conocimientos-previos",
+    "href": "index.html#conocimientos-previos",
+    "title": "Creando material educativo abierto con Quarto y ChatGPT",
+    "section": "Conocimientos previos",
+    "text": "Conocimientos previos\nIdeales (recomendados)\n\nPython básico (estructuras, funciones, entornos)\n\nManejo de Jupyter Notebooks (ejecución de celdas, kernels)\n\nMarkdown (encabezados, listas, código, imágenes)\n\nNociones de LaTeX para fórmulas y citas\n\nGit/GitHub básicos (clonar, commits, push)\n\nMínimos (para participar desde cero)\n\nDisposición a aprender herramientas libres y abiertas y a manejar la terminal\n\nMaterial de apoyo\n\nPlantillas y ejemplos se proporcionarán; quienes inicien “desde cero” podrán seguir con pasos guiados y emparejarse con participantes con experiencia."
+  },
+  {
+    "objectID": "index.html#requisitos-para-tomar-el-taller",
+    "href": "index.html#requisitos-para-tomar-el-taller",
+    "title": "Creando material educativo abierto con Quarto y ChatGPT",
+    "section": "Requisitos para tomar el taller",
+    "text": "Requisitos para tomar el taller\nIndispensables\n\nComputadora con permisos para instalar software.\n\nCuenta gratuita de ChatGPT (suficiente para seguir el taller).\n\nGanas de aprender y experimentar.\n\nRecomendados\n\nGit instalado y cuenta de GitHub (para publicar en Pages).\n\nChatGPT Plus (acceso a modelos con “modo de código”/Codex-like para acelerar tareas).\n\nCuentas en Gemini o Perplexity como apoyo comparativo."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

@@ -1,0 +1,109 @@
+---
+title: "Creando material educativo abierto con Quarto y ChatGPT"
+subtitle: "Taller práctico (2 horas)"
+author:
+  - name: "Guillermo Barrios del Valle"
+    affiliation: "Instituto de Energías Renovables, UNAM"
+    orcid: "0000-0003-2738-297X"
+date: last-modified
+lang: es
+toc: true
+number-sections: false
+format:
+  html:
+    theme: cosmo
+    toc-depth: 3
+    code-fold: false
+    smooth-scroll: true
+    link-external-newwindow: true
+page-layout: article
+license: "CC BY 4.0"
+---
+
+## Semblanza
+
+Guillermo Barrios es investigador del Instituto de Energías Renovables de la UNAM. Ingeniero Mecánico por la Universidad de Colima, impulsa ciencia de datos, energía en edificaciones y educación abierta. Coordina proyectos como ClimaLab y EnerHabitat, orientados a sostenibilidad, datos abiertos y equidad. Autor del programa especializado en Coursera *Python: de cero a analista*, impulsa la narrativa computacional y la ciencia de datos reproducible con herramientas libres. Diseña currículos y mentorías para formar talento en LIER-UNAM, y colabora con gobiernos y academia en políticas basadas en evidencia. Le apasionan Python, la visualización clara y el café, siempre con ética y rigor.
+
+## Objetivo
+
+Capacitar a las y los participantes para diseñar, producir y publicar material educativo abierto utilizando **Quarto** y **ChatGPT**: desde la creación de notas en **Markdown** y **libretas de Jupyter**, hasta la integración de **bibliografías** desde archivos **BibTeX** y su **despliegue en GitHub Pages**, promoviendo prácticas reproducibles, metadatos claros y licenciamiento abierto; **apoyándonos en ChatGPT y Codex** para explorar o resolver temas menos familiares y acelerar el desarrollo.
+
+## Contenidos temáticos
+
+### Panorama Quarto + flujo de trabajo
+
+- Qué es Quarto y cómo se integra con ChatGPT y GitHub Pages  
+- Arquitectura básica: `"_quarto.yml"`, colecciones (docs/posts)
+
+### Autoría en Markdown (`.qmd`)
+
+- Estructura YAML, encabezados, bloques de código  
+- Buenas prácticas de estilo y legibilidad
+
+### Integración de Jupyter Notebooks
+
+- Importar/ejecutar archivos `.ipynb`
+
+### ChatGPT o Codex como coautor
+
+- Configurar “modo código”/Codex-like en VS Code  
+- Estrategias de prompts y atribución responsable
+
+### Citas y bibliografía (BibTeX)
+
+- `bibliography: references.bib`, estilos CSL  
+- Citas en texto y generación automática de la lista
+
+### Estilo y maquetación ligera
+
+- Temas base, CSS mínimo, navegación y portada
+
+### Publicación
+
+- Repositorio en GitHub y despliegue en `gh-pages`
+
+### Apertura, licencias y metadatos
+
+- CC BY para contenido, MIT para código
+
+### Versionamiento y control de cambios
+
+- Git básico, mensajes de commit y estructura de carpetas
+
+### Flujo de actualización
+
+- Estrategias para iterar y mantener el sitio
+
+## Conocimientos previos
+
+**Ideales (recomendados)**
+
+- Python básico (estructuras, funciones, entornos)  
+- Manejo de **Jupyter Notebooks** (ejecución de celdas, kernels)  
+- **Markdown** (encabezados, listas, código, imágenes)  
+- Nociones de **LaTeX** para fórmulas y citas  
+- Git/GitHub básicos (clonar, commits, push)
+
+**Mínimos (para participar desde cero)**
+
+- Disposición a aprender herramientas **libres y abiertas** y a manejar la terminal
+
+**Material de apoyo**
+
+- Plantillas y ejemplos se proporcionarán; quienes inicien “desde cero” podrán seguir con pasos guiados y emparejarse con participantes con experiencia.
+
+## Requisitos para tomar el taller
+
+**Indispensables**
+
+- Computadora con permisos para instalar software.  
+- **Cuenta gratuita de ChatGPT** (suficiente para seguir el taller).  
+- Ganas de aprender y experimentar.
+
+**Recomendados**
+
+- **Git** instalado y **cuenta de GitHub** (para publicar en Pages).  
+- **ChatGPT Plus** (acceso a modelos con “modo de código”/Codex-like para acelerar tareas).  
+- Cuentas en **Gemini** o **Perplexity** como apoyo comparativo.
+
+
